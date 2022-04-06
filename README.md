@@ -165,3 +165,25 @@ Microsoft App ID and password: Auto create App ID and password.
 Wait for your bot to be created (the notification icon at the top right, which looks like a bell, will be animated while you wait). Then in the notification that deployment has completed, click Go to resource (or alternatively, on the home page, click Resource groups, open the resource group where you created the web app bot, and click it.)
 In the left-hand pane of your bot look for Settings, click on Test in Web Chat, and wait until the bot displays the message Hello and welcome! (it may take a few seconds to initialize).
 Use the test chat interface to ensure your bot answers questions from your knowledge base as expected. For example, try submitting I need to cancel my hotel.
+
+
+
+Creating a new custom question answering service
+Create a Text Analytics resource to use question answering and other features such as entity recognition, sentiment analysis, etc.
+
+Now when you create a new Text Analytics resource, you can select features that you want included. Select custom question answering (preview) and continue to create your resource.
+
+Screenshot of create a Text Analytics resource UI menu with custom question answering feature selected
+
+You can no longer create a QnA Maker managed resource from the QnA Maker create flow, instead you will be redirected to the Text Analytics service. There is no change to the QnA Maker stable release.
+
+Screenshot of resource creation menu
+
+Details
+All existing QnA Maker managed (preview) resources continue to work as before. There is no action required for these resources at this time.
+The creation flow for Custom question answering (preview) is the primary change. The service, portal, endpoints, SDK, etc. remain as before.
+Custom question answering (preview) continues to be offered as a free public preview. This feature is only available as part of Text Analytics Standard resources. Do not change your pricing tier for Text Analytics resources to free.
+Custom question answering (preview) is available in the following regions:
+South Central US
+North Europe
+Australia East.
