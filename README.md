@@ -52,7 +52,11 @@ This is how ECCafebot is created and deployed.
 
 
 
-In self learning module it ies explained as follows
+In self learning module it is explained as follows:
+
+
+
+
 The Language service's custom question answering feature enables you to quickly create a knowledge base, either by entering question and answer pairs or from an existing document or web page. It can then use some built-in natural language processing capabilities to interpret questions and find appropriate answers.
 
 Open the Azure portal at https://portal.azure.com, signing in with your Microsoft account.
