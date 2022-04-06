@@ -173,11 +173,11 @@ Create a Text Analytics resource to use question answering and other features su
 
 Now when you create a new Text Analytics resource, you can select features that you want included. Select custom question answering (preview) and continue to create your resource.
 
-Screenshot of create a Text Analytics resource UI menu with custom question answering feature selected
+
 
 You can no longer create a QnA Maker managed resource from the QnA Maker create flow, instead you will be redirected to the Text Analytics service. There is no change to the QnA Maker stable release.
 
-Screenshot of resource creation menu
+
 
 Details
 All existing QnA Maker managed (preview) resources continue to work as before. There is no action required for these resources at this time.
