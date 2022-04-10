@@ -2,6 +2,7 @@
  telegram bot :https://telegram.me/Eccafebot
 
 google site:https://sites.google.com/view/eccafebot/home
+All procedure screenshots and screen recording is uploaded in this repository.
 
 
 
