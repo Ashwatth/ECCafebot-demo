@@ -1,5 +1,7 @@
 # ECCafebot-demo
-google telegram bot :https://telegram.me/Eccafebot
+ telegram bot :https://telegram.me/Eccafebot
+
+google site:https://sites.google.com/view/eccafebot/home
 
 
 
